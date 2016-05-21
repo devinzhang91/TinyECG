@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=LA Pin=P1-2
+Removed Pin From Net: NetName=RA Pin=P1-3
+Added Pin To Net: NetName=RA Pin=P1-2
+Added Pin To Net: NetName=LA Pin=P1-3
+Added Room: Name=stm8l_resp_v2.0

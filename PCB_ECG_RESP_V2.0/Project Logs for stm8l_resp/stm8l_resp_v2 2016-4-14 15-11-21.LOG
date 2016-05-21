@@ -1,0 +1,32 @@
+Added Component: Designator=U4(ADS1292R-QFN-32)
+Added Pin To Net: NetName=NetC4_1_2 Pin=U4-1
+Added Pin To Net: NetName=NetC4_1_1 Pin=U4-2
+Added Pin To Net: NetName=NetC4_2_2 Pin=U4-3
+Added Pin To Net: NetName=NetC4_4_2 Pin=U4-4
+Added Pin To Net: NetName=1N2N Pin=U4-5
+Added Pin To Net: NetName=1N2P Pin=U4-6
+Added Pin To Net: NetName=NetC4_6_1 Pin=U4-7
+Added Pin To Net: NetName=NetC4_6_2 Pin=U4-8
+Added Pin To Net: NetName=NetC4_7_2 Pin=U4-9
+Added Pin To Net: NetName=GND Pin=U4-10
+Added Pin To Net: NetName=VCAP1 Pin=U4-11
+Added Pin To Net: NetName=3.3V Pin=U4-12
+Added Pin To Net: NetName=GND Pin=U4-13
+Added Pin To Net: NetName=NetR4_5_2 Pin=U4-14
+Added Pin To Net: NetName=RESET Pin=U4-15
+Added Pin To Net: NetName=START Pin=U4-16
+Added Pin To Net: NetName=GND Pin=U4-17
+Added Pin To Net: NetName=CS0 Pin=U4-18
+Added Pin To Net: NetName=SPI_MOSI Pin=U4-19
+Added Pin To Net: NetName=SPI_CLK Pin=U4-20
+Added Pin To Net: NetName=SPI_MISO Pin=U4-21
+Added Pin To Net: NetName=READY Pin=U4-22
+Added Pin To Net: NetName=3.3V Pin=U4-23
+Added Pin To Net: NetName=GND Pin=U4-24
+Added Pin To Net: NetName=VCAP2 Pin=U4-27
+Added Pin To Net: NetName=NetC4_13_2 Pin=U4-28
+Added Pin To Net: NetName=NetR4_9_1 Pin=U4-29
+Added Pin To Net: NetName=NetR4_8_2 Pin=U4-30
+Added Pin To Net: NetName=NetR4_7_2 Pin=U4-31
+Added Pin To Net: NetName=NetR4_6_1 Pin=U4-32
+Added Member To Class: ClassName=stm8l_resp_v2.0 Member=Component U4 ADS1292R

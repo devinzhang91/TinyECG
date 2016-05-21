@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=3.3V Pin=Debug-2
+Removed Pin From Net: NetName=SWIM Pin=Debug-3
+Removed Pin From Net: NetName=TXD Pin=Debug-4
+Removed Pin From Net: NetName=GND Pin=Debug-5
+Removed Pin From Net: NetName=RXD Pin=Debug-6
+Removed Pin From Net: NetName=NRST Pin=Debug-7
+Removed Pin From Net: NetName=GND Pin=Debug-8
+Change Component DesignItemId : Designator=Debug Old DesignItemId=Header 4X2 New DesignItemId=Header 4
+Change Component Footprint: Designator=Debug Old Footprint=HDR2X4 New Footprint=HDR4X1_A
+Change Component Comment : Designator=Debug Old Comment=Header 4X2 New Comment=Header 4
+Added Pin To Net: NetName=SWIM Pin=Debug-2
+Added Pin To Net: NetName=GND Pin=Debug-3
+Added Pin To Net: NetName=NRST Pin=Debug-4
+Added Room: Name=stm8l_resp_v2.0

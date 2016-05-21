@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=NetC4_7_1 Pin=C4_7-1
+Removed Pin From Net: NetName=GND Pin=C4_7-2
+Removed Pin From Net: NetName=3.3V Pin=C4_22-1
+Removed Pin From Net: NetName=GND Pin=C4_22-2
+Change Component DesignItemId : Designator=C1_2 Old DesignItemId=Cap Pol New DesignItemId=Cap
+Change Component DesignItemId : Designator=C4_7 Old DesignItemId=Cap Pol New DesignItemId=Cap
+Change Component DesignItemId : Designator=C4_10 Old DesignItemId=Cap Pol New DesignItemId=Cap
+Change Component DesignItemId : Designator=C4_22 Old DesignItemId=Cap Pol New DesignItemId=Cap
+Change Component Footprint: Designator=C1_2 Old Footprint=CAP-3216 New Footprint=C-RAD-0603
+Change Component Footprint: Designator=C4_7 Old Footprint=CAP-3216 New Footprint=C-RAD-0603
+Change Component Footprint: Designator=C4_10 Old Footprint=CAP-3216 New Footprint=C-RAD-0603
+Change Component Footprint: Designator=C4_22 Old Footprint=CAP-3216 New Footprint=C-RAD-0603
+Change Component Comment : Designator=C1_2 Old Comment=Cap Pol New Comment=Cap
+Change Component Comment : Designator=C4_7 Old Comment=Cap Pol New Comment=Cap
+Change Component Comment : Designator=C4_10 Old Comment=Cap Pol New Comment=Cap
+Change Component Comment : Designator=C4_22 Old Comment=Cap Pol New Comment=Cap
+Added Pin To Net: NetName=GND Pin=C4_7-1
+Added Pin To Net: NetName=NetC4_7_1 Pin=C4_7-2
+Added Pin To Net: NetName=GND Pin=C4_22-1
+Added Pin To Net: NetName=3.3V Pin=C4_22-2
+Change Net Name : Old Net Name=NetC4_7_1 New Net Name=NetC4_7_2
+Added Room: Name=stm8l_resp_v2.0

@@ -1,0 +1,2 @@
+Change Component Footprint: Designator=U4 Old Footprint=ADS1292R-PQFP-32 New Footprint=ADS1292R-QFN-32
+Added Room: Name=stm8l_resp_v2.0

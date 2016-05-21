@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=RL-OUT Pin=R4_99-2
+Removed Pin From Net: NetName=1N2P Pin=R4_100-1
+Removed Pin From Net: NetName=1N2N Pin=R17-0-1
+Removed Member From Class: ClassName=stm8l_resp_v2.0 Member=R4_99
+Removed Member From Class: ClassName=stm8l_resp_v2.0 Member=R4_100
+Removed Member From Class: ClassName=stm8l_resp_v2.0 Member=R17-0
+Added Pin To Net: NetName=1N2N Pin=C4_3-1
+Added Pin To Net: NetName=1N2P Pin=C4_5-1
+Added Pin To Net: NetName=RL-OUT Pin=P1-1
+Added Pin To Net: NetName=1N2P Pin=P1-2
+Added Pin To Net: NetName=1N2N Pin=P1-3
+Added Pin To Net: NetName=1N2N Pin=R4_101-1
+Added Pin To Net: NetName=1N2P Pin=R4_103-1
+Added Pin To Net: NetName=RL-OUT Pin=R4_105-1
+Change Net Name : Old Net Name=RL-OUT New Net Name=RL
+Added Room: Name=stm8l_resp_v2.0

@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=NetC4_6_2 Pin=R17-0-1
+Change Component Designator: OldDesignator=CF4_2 NewDesignator=C4_102
+Added Pin To Net: NetName=1N2N Pin=R17-0-1
+Added Pin To Net: NetName=1N2N Pin=U4-5
+Added Room: Name=stm8l_resp_v2.0

@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=SAT0 Pin=EM-1
+Removed Pin From Net: NetName=GND Pin=EM-2
+Removed Pin From Net: NetName=SAT0 Pin=EM-3
+Removed Pin From Net: NetName=3.3V Pin=EM-5
+Removed Member From Class: ClassName=stm8l_resp_v2.0 Member=EM
+Added Component: Designator=U0(SOT-23)
+Added Pin To Net: NetName=GND Pin=U0-1
+Added Pin To Net: NetName=3.3V Pin=U0-2
+Added Member To Class: ClassName=stm8l_resp_v2.0 Member=Component U0 MCP1700
+Added Room: Name=stm8l_resp_v2.0

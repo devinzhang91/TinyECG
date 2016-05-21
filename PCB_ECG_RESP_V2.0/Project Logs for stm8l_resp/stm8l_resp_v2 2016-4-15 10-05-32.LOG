@@ -1,0 +1,11 @@
+Added Component: Designator=Debug(HDR2X4)
+Added Pin To Net: NetName=3.3V Pin=Debug-1
+Added Pin To Net: NetName=3.3V Pin=Debug-2
+Added Pin To Net: NetName=SWIM Pin=Debug-3
+Added Pin To Net: NetName=TXD Pin=Debug-4
+Added Pin To Net: NetName=GND Pin=Debug-5
+Added Pin To Net: NetName=RXD Pin=Debug-6
+Added Pin To Net: NetName=NRST Pin=Debug-7
+Added Pin To Net: NetName=GND Pin=Debug-8
+Added Member To Class: ClassName=stm8l_resp_v2.0 Member=Component Debug Header 4X2
+Added Room: Name=stm8l_resp_v2.0

@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=RL Pin=P1-1
+Removed Pin From Net: NetName=RL Pin=R4_105-1
+Change Net Name : Old Net Name=RL New Net Name=RL-OUT
+Added Pin To Net: NetName=RL Pin=P1-1
+Added Pin To Net: NetName=RL Pin=R4_105-1
+Added Net: Name=RL
+Added Room: Name=stm8l_resp_v2.0

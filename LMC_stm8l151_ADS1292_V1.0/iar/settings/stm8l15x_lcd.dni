@@ -1,0 +1,105 @@
+[Interrupts]
+Enabled=1
+[MemoryMap]
+Enabled=0
+Base=0
+UseAuto=0
+TypeViolation=1
+UnspecRange=1
+ActionState=1
+[TraceHelper]
+Enabled=0
+ShowSource=1
+[DebugChecksum]
+Checksum=406164951
+[DisAssemblyWindow]
+NumStates=_ 1
+State 1=_ 1
+[InstructionProfiling]
+Enabled=_ 0
+[CodeCoverage]
+Enabled=_ 0
+[Profiling]
+Enabled=0
+[StackPlugin]
+Enabled=1
+OverflowWarningsEnabled=1
+WarningThreshold=90
+SpWarningsEnabled=1
+WarnHow=0
+UseTrigger=1
+TriggerName=main
+LimitSize=0
+ByteLimit=50
+[Stack]
+FillEnabled=0
+OverflowWarningsEnabled=1
+WarningThreshold=90
+SpWarningsEnabled=1
+WarnLogOnly=1
+UseTrigger=1
+TriggerName=main
+LimitSize=0
+ByteLimit=50
+[CallStack]
+ShowArgs=0
+[Disassembly]
+MixedMode=1
+[array_types]
+Fmt0=u8[20]	3	0
+[watch_formats]
+Fmt0={W}0:buff_cnt0	3	0
+Fmt1={W}0:buff_cnt1	3	0
+Fmt2={W}0:lsb	4	0
+Fmt3={W}0:msb	4	0
+Fmt4={W}0:pec	4	0
+Fmt5={W}0:slaveaddress	4	0
+Fmt6={W}0:temp	3	0
+Fmt7={W}0:temp0	4	0
+Fmt8={W}0:temp1	4	0
+Fmt9={W}0:temp2	4	0
+Fmt10={W}0:test_data	4	0
+[DataSample]
+LogEnabled=0
+GraphEnabled=0
+ShowTimeLog=1
+ShowTimeSum=1
+[Log file]
+LoggingEnabled=_ 0
+LogFile=_ ""
+Category=_ 0
+[TermIOLog]
+LoggingEnabled=_ 0
+LogFile=_ ""
+[Breakpoints]
+Bp0=_ "STD_CODE" "{$PROJ_DIR$\..\main\lcd_test.c}.34.3" 0 0 0 0 "" 0 ""
+Bp1=_ "STD_CODE" "{$PROJ_DIR$\..\main\lcd_test.c}.38.5" 0 0 0 0 "" 0 ""
+Bp2=_ "STD_CODE" "{$PROJ_DIR$\..\hardware\iic.c}.137.1" 0 0 0 0 "" 0 ""
+Bp3=_ "STD_CODE" "{$PROJ_DIR$\..\hardware\iic.c}.137.1" 0 0 0 0 "" 0 ""
+Bp4=_ "STD_CODE" "{$PROJ_DIR$\..\devices\iic_bmp085.c}.47.3" 0 0 0 0 "" 0 ""
+Bp5=_ "STD_CODE" "{$PROJ_DIR$}.47.1" 0 0 0 0 "" 0 ""
+Bp6=_ "STD_CODE" "{$PROJ_DIR$\..\..\stm8l151_OLED}.13.3" 0 0 0 0 "" 0 ""
+Bp7=_ "STD_CODE" "{$PROJ_DIR$\..\..\stm8l151_OLED}.137.3" 0 0 0 0 "" 0 ""
+Bp8=_ "STD_CODE" "{$PROJ_DIR$\..\..\stm8l151_OLED}.43.3" 0 0 0 0 "" 0 ""
+Bp9=_ "STD_CODE" "{$PROJ_DIR$\..\devices\afe4400.c}.148.1" 0 0 0 0 "" 0 ""
+Bp10=_ "STD_CODE" "{$PROJ_DIR$\..\fwlib\inc\stm8l15x_tim2.h}.64.2" 0 0 0 0 "" 0 ""
+Bp11=_ "STD_CODE" "{$PROJ_DIR$\..\devices\oled.c}.15.3" 0 0 0 0 "" 0 ""
+Bp12=_ "STD_CODE" "{$PROJ_DIR$\..\devices\ads1292r.c}.53.3" 1 0 0 0 "" 0 ""
+Bp13=_ "STD_CODE" "{$PROJ_DIR$\..\hardware\timer2.c}.36.5" 1 0 0 0 "" 0 ""
+Count=14
+[Aliases]
+A0=_ "E:\HWT\io\stm8l152_demo\fwlib\src\stm8l15x_clk.c" ""
+A1=_ "E:\HWT\io\stm8l152_demo\fwlib\src\stm8l15x_dma.c" ""
+A2=_ "E:\HWT\io\stm8l152_demo\fwlib\src\stm8l15x_gpio.c" ""
+A3=_ "E:\HWT\io\stm8l152_demo\fwlib\src\stm8l15x_i2c.c" ""
+A4=_ "E:\HWT\io\stm8l152_demo\fwlib\src\stm8l15x_lcd.c" ""
+A5=_ "E:\HWT\io\stm8l152_demo\fwlib\src\stm8l15x_spi.c" ""
+A6=_ "E:\HWT\io\stm8l152_demo\fwlib\src\stm8l15x_syscfg.c" ""
+A7=_ "E:\HWT\io\stm8l152_demo\fwlib\src\stm8l15x_tim4.c" ""
+A8=_ "E:\HWT\io\stm8l152_demo\fwlib\src\stm8l15x_usart.c" ""
+A9=_ "E:\HWT\io\stm8l15x_io\periph\periph_lcd.c" ""
+A10=_ "E:\HWT\io\stm8l15x_io\utility\util_bit_arry.c" ""
+A11=_ "G:\stm8s\STM8L152C6T6开发板资料\soft\15-LCM\main\lcd_test.c" ""
+A12=_ "G:\电子制作书籍资料\图片及资料###\stm8l152开发###\发布资料##\STM8L152C6T6开发板资料\soft\15-LCM\main\lcd_test.c" "G:\stm8s\STM8L152C6T6开发板资料\soft\15-LCM\main\lcd_test.c"
+Count=13
+SuppressDialog=1

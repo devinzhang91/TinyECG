@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=1N2N Pin=C4_3-1
+Removed Pin From Net: NetName=1N2P Pin=C4_5-1
+Removed Pin From Net: NetName=1N2P Pin=P1-2
+Removed Pin From Net: NetName=1N2N Pin=P1-3
+Removed Pin From Net: NetName=1N2N Pin=R4_101-1
+Removed Pin From Net: NetName=1N2P Pin=R4_103-1
+Added Pin To Net: NetName=LA Pin=C4_5-1
+Added Pin To Net: NetName=LA Pin=P1-2
+Added Pin To Net: NetName=LA Pin=R4_103-1
+Added Net: Name=LA
+Added Pin To Net: NetName=RA Pin=C4_3-1
+Added Pin To Net: NetName=RA Pin=P1-3
+Added Pin To Net: NetName=RA Pin=R4_101-1
+Added Net: Name=RA
+Added Room: Name=stm8l_resp_v2.0

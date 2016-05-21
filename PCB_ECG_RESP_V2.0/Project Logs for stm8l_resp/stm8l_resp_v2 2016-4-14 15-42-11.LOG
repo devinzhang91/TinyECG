@@ -1,0 +1,7 @@
+Added Component: Designator=U6(MLX90615-2)
+Added Pin To Net: NetName=IIC_SDA Pin=U6-1
+Added Pin To Net: NetName=3.3V Pin=U6-2
+Added Pin To Net: NetName=IIC_SCL Pin=U6-3
+Added Pin To Net: NetName=GND Pin=U6-4
+Added Member To Class: ClassName=stm8l_resp_v2.0 Member=Component U6 MLX90615
+Added Room: Name=stm8l_resp_v2.0

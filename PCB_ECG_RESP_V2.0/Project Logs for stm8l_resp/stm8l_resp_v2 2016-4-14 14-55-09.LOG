@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=L0 Old Footprint=0603-1 New Footprint=0603-LED
+Change Component Footprint: Designator=L1 Old Footprint=0603-1 New Footprint=0603-LED
+Added Room: Name=stm8l_resp_v2.0

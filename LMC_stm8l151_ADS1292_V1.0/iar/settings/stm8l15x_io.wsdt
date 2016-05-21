@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Workspace>
+  <ConfigDictionary>
+    
+  <CurrentConfigs><Project>stm8l15x_io/Debug</Project><Project>stm8l15x_eep/Debug</Project><Project>stm8l15x_lib/Debug</Project><Project>stm8l15x_lcd/Debug</Project></CurrentConfigs><CurrentProj>stm8l15x_lcd</CurrentProj><OverviewSelected>0</OverviewSelected></ConfigDictionary>
+  <Desktop>
+    <Static>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>450</Column0><Column1>27</Column1><Column2>27</Column2><Column3>27</Column3></ColumnWidths>
+      </Workspace>
+      <Build>
+        
+        
+        
+        
+      <ColumnWidth0>20</ColumnWidth0><ColumnWidth1>915</ColumnWidth1><ColumnWidth2>244</ColumnWidth2><ColumnWidth3>61</ColumnWidth3></Build>
+    <TerminalIO/><Debug-Log><ColumnWidth0>8</ColumnWidth0><ColumnWidth1>1233</ColumnWidth1></Debug-Log></Static>
+    <Windows>
+      
+      
+    <Wnd2>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-21816-16715</Identity>
+            <TabName>Workspace</TabName>
+            <Factory>Workspace</Factory>
+            <Session>
+              
+            <NodeDict><ExpandedNode>&lt;ws></ExpandedNode><ExpandedNode>stm8l15x_eep</ExpandedNode><ExpandedNode>stm8l15x_eep/FWLIB</ExpandedNode><ExpandedNode>stm8l15x_eep/IAR_EEPROM</ExpandedNode><ExpandedNode>stm8l15x_eep/Main</ExpandedNode><ExpandedNode>stm8l15x_eep/SRC</ExpandedNode><ExpandedNode>stm8l15x_io</ExpandedNode><ExpandedNode>stm8l15x_io/Main</ExpandedNode><ExpandedNode>stm8l15x_io/SRC</ExpandedNode><ExpandedNode>stm8l15x_lcd</ExpandedNode><ExpandedNode>stm8l15x_lcd/FWLIB</ExpandedNode><ExpandedNode>stm8l15x_lcd/Main</ExpandedNode><ExpandedNode>stm8l15x_lcd/Periph</ExpandedNode><ExpandedNode>stm8l15x_lcd/SRC</ExpandedNode><ExpandedNode>stm8l15x_lcd/Utility</ExpandedNode><ExpandedNode>stm8l15x_lib</ExpandedNode><ExpandedNode>stm8l15x_lib/FWLIB</ExpandedNode><ExpandedNode>stm8l15x_lib/FWLIB/SRC</ExpandedNode></NodeDict></Session>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd2><Wnd3>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-8454-16761</Identity>
+            <TabName>Build</TabName>
+            <Factory>Build</Factory>
+            <Session/>
+          </Tab>
+        <Tab><Identity>TabID-3542-29399</Identity><TabName>Debug Log</TabName><Factory>Debug-Log</Factory><Session/></Tab></Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd3></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\main\lcd_test1.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>349</SelStart><SelEnd>349</SelEnd></Tab><ActiveTab>0</ActiveTab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-00a7a388><key>iaridepm.enu1</key></Toolbar-00a7a388></Sizes></Row0></Top><Left><Row0><Sizes><Wnd2><Rect><Top>-2</Top><Left>-2</Left><Bottom>450</Bottom><Right>524</Right><x>-2</x><y>-2</y><xscreen>111</xscreen><yscreen>89</yscreen><sizeHorzCX>86719</sizeHorzCX><sizeHorzCY>128613</sizeHorzCY><sizeVertCX>410938</sizeVertCX><sizeVertCY>653179</sizeVertCY></Rect></Wnd2></Sizes></Row0></Left><Right><Row0><Sizes/></Row0></Right><Bottom><Row0><Sizes><Wnd3><Rect><Top>-2</Top><Left>-2</Left><Bottom>197</Bottom><Right>1282</Right><x>-2</x><y>-2</y><xscreen>1284</xscreen><yscreen>199</yscreen><sizeHorzCX>1003125</sizeHorzCX><sizeHorzCY>287572</sizeHorzCY><sizeVertCX>86719</sizeVertCX><sizeVertCY>128613</sizeVertCY></Rect></Wnd3></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Workspace>
+
+

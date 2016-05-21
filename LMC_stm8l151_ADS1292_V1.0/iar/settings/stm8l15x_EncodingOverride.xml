@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<userOverrides>
+  <override>
+    <path>G:\QQQ\17-lcm-wx2516\main\flash.c</path>
+    <encoding>Win-1252</encoding>
+  </override>
+  <override>
+    <path>G:\QQQ\17-lcm-wx2516\periph\periph_lcd.c</path>
+    <encoding>Win-1252</encoding>
+  </override>
+  <override>
+    <path>G:\QQQ\stm8l152_demo&#xFF08;&#x5e93;)\main\lcd_test.c</path>
+    <encoding>Win-1252</encoding>
+  </override>
+</userOverrides>
+
+
